@@ -1,0 +1,19 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`<Form /> renders the <Form /> with an error 1`] = `
+<div
+  class="form__Container-sc-t03fci-0 bzrLtt"
+>
+  <div
+    class="form__Error-sc-t03fci-1 jsgMRU"
+  >
+    Your email address is already being used
+  </div>
+  <button
+    class="form__Submit-sc-t03fci-8 fBsWSQ"
+    type="submit"
+  >
+    Sign In
+  </button>
+</div>
+`;
